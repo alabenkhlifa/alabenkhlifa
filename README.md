@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **Spring Framework and Android**
 
+- I'm learning React Native right now
+
 - 📫 How to reach me **ala.khliifa@gmail.com**
 
 - ⚡ Fun fact **I never finished a project**
