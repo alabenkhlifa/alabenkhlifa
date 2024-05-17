@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=alabenkhlifa&theme=dracula" alt="alabenkhlifa" /></a> </p>
 
-- 🔭 I’m currently working on **Web and Mobile apps**
+- 🔭 I’m currently working on **Web and Native / Cross Mobile Applications**
 
-- 🌱 I’m currently learning **Android Compose**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **any open source java / kotlin library**
+- 👯 I’m looking to collaborate on **any open source project**
 
 - 💬 Ask me about **Spring Framework and Android**
-
-- I'm learning React Native right now
 
 - 📫 How to reach me **ala.khliifa@gmail.com**
 
