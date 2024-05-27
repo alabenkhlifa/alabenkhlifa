@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web and Native / Cross Mobile Applications**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** and **NestJS**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
