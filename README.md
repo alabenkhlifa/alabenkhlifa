@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=alabenkhlifa&theme=dracula" alt="alabenkhlifa" /></a> </p>
 
-- 🔭 I’m currently working on **Web and Native / Cross Mobile Applications**
+- 🔭 I’m currently working on **Web Applications and Native / Cross Mobile Applications**
 
 - 🌱 I’m currently learning **React Native** and **NestJS**
 
