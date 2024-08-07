@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Applications and Native / Cross Mobile Applications**
 
-- 🌱 I’m currently learning **React Native** and **NestJS**
+- 🌱 I’m currently learning **KTor** and **NestJS**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ala.khliifa@gmail.com**
 
-- ⚡ Fun fact **I never finished a project**
+- ⚡ Fun fact **I never finished a personal project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
