@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a personal project with Angular and Spring**
 
-- 🌱 I’m currently learning **KTor** and **NestJS**
+- 🌱 I’m currently learning **NestJS** and **Terraform**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
