@@ -1,30 +1,80 @@
-<h1 align="center">Hi 👋, I'm Ala BEN KHALIFA</h1>
-<h3 align="center">A passionate Lead Software Engineer (Web Developer)</h3>
+<h1 align="center">Ala Ben Khalifa</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alabenkhlifa&label=Profile%20views&color=0e75b6&style=flat" alt="alabenkhlifa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=alabenkhlifa&theme=dracula" alt="alabenkhlifa" /></a> </p>
-
-- 🔭 I’m currently working on **a personal project with Angular and Spring**
-
-- 🌱 I’m currently learning **NestJS** and **Terraform**
-
-- 👯 I’m looking to collaborate on **any open source project**
-
-- 💬 Ask me about **Spring Framework and Android**
-
-- 📫 How to reach me **ala.khliifa@gmail.com**
-
-- ⚡ Fun fact **I never finished a personal project**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ala-ben-khlifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ala ben khalifa" height="30" width="40" /></a>
+<p align="center">
+  <strong>Lead Software Engineer · Spring Expert · Cloud & AI Systems</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactnative.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/ala-ben-khlifa">
+    <img src="https://img.shields.io/badge/LinkedIn-Ala%20Ben%20Khalifa-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=alabenkhlifa&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alabenkhlifa&show_icons=true&locale=en&layout=compact&theme=dracula" alt="alabenkhlifa" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alabenkhlifa&show_icons=true&locale=en&theme=dracula" alt="alabenkhlifa" /></p>
+## ⚡ About
+
+Lead Software Engineer with a strong backend background.  
+Spring expert focused on scalable, cloud-native systems.  
+Currently exploring AI-powered architectures (RAGs) and AWS.
+
+---
+
+## 🧠 Expertise
+- Spring Boot & Spring Ecosystem (expert)
+- Java & JVM architecture
+- Distributed & cloud-native systems
+- Microservices & API design
+- Android development
+
+---
+
+## ☁️ Cloud & DevOps
+- **Azure** – production experience  
+- **AWS** – currently learning  
+- Docker & Kubernetes  
+- Terraform (IaC)
+
+---
+
+## 🤖 Current Focus
+- RAG-based systems (LLMs + vector databases)
+- Cloud-native Spring Boot architectures
+- Clean, scalable backend design
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="36" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="36" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="36" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="36" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alabenkhlifa&show_icons=true&theme=dracula" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alabenkhlifa&layout=compact&theme=dracula" height="160" />
+</p>
+
+---
+
+## 🧩 Fun Fact
+> I start personal projects faster than I finish them.
+
+---
+
+## 📬 Contact
+- 📧 **ala.khliifa@gmail.com**
+- 💼 [LinkedIn](https://linkedin.com/in/ala-ben-khlifa)
