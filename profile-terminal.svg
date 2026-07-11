@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="760" viewBox="0 0 1120 760" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="860" viewBox="0 0 1120 860" role="img" aria-labelledby="title desc">
 <title id="title">Ala BEN KHALIFA terminal profile</title>
 <desc id="desc">Neofetch-style GitHub profile card with ASCII portrait and technical profile metadata.</desc>
 <style>
-  .bg { fill: #0d1117; }
+  .bg { fill: transparent; }
   .card { fill: #161b22; stroke: #30363d; stroke-width: 1.2; }
   .split { stroke: #30363d; stroke-width: 1; }
   .art { fill: #d1d7e0; font-family: 'SFMono-Regular','Cascadia Mono','DejaVu Sans Mono','Menlo','Consolas',monospace; font-size: 12.4px; }
@@ -14,9 +14,9 @@
   .dots { fill: #6e7681; }
   .value { fill: #a5d6ff; }
 </style>
-<rect class="bg" x="0" y="0" width="1120" height="760" rx="0"/>
-<rect class="card" x="26" y="26" width="1068" height="708" rx="10"/>
-<line class="split" x1="488" y1="26" x2="488" y2="734"/>
+<rect class="bg" x="0" y="0" width="1120" height="860" rx="0"/>
+<rect class="card" x="0" y="0" width="1120" height="860" rx="10"/>
+<line class="split" x1="488" y1="0" x2="488" y2="860"/>
 <text class="art" x="48" y="58.0">⠀⠀⠀⠀⠀⡐⠄⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
 <text class="art" x="48" y="73.2">⠀⠀⠀⠀⡐⠌⠄⠀⠀⠀⠀⠀⠀⣄⣠⣠⣢⣴⣦⣶⣤⣀⠀⠀⠀⠀⠀⡀⡀⢄⠠⢀⠂⡐⠠⠀⠐⠀</text>
 <text class="art" x="48" y="88.4">⠀⠀⡀⡂⢌⢊⠀⠀⢀⣤⣴⣼⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣵⣸⠨⠢⡊⠐⠈⠀⠀⠀⠀⠀⠀⠀</text>
