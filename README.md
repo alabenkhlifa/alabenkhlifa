@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-terminal.svg" alt="Ala BEN KHALIFA terminal profile" />
+  <img src="./profile.svg" alt="Ala BEN KHALIFA terminal profile" />
 </p>
 
 <h2>Profile Highlights</h2>
